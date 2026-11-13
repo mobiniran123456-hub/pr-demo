@@ -1,4 +1,8 @@
-GitHub Pull Request Demo
-Version 1.0
-This change was added via a Pull Request.
-Second update made while the PR is open.
+Project: GitHub Code Review
+
+This project demonstrates GitHub collaboration.
+
+Features:
+- Pull Request
+- Code Review
+- Team Collaboration
